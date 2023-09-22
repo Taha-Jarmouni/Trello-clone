@@ -1,0 +1,22 @@
+{
+  "backlog": [],
+  "doing": [
+    {
+      "id": "a9380fff-35bc-4fa5-9efc-4e97557fb62c",
+      "text": "Hello wolrd"
+    },
+    {
+      "id": "62f799be-8f41-4824-b88c-b99ca9580723",
+      "text": "Create your first task"
+    },
+    {
+      "id": "66cb361a-bd09-432d-b7b6-583e020049d8",
+      "text": "Create your second task"
+    },
+    {
+      "id": "4eed47e0-66c9-4c7d-b146-48a80fdf48da",
+      "text": "looking perfect"
+    }
+  ],
+  "done": []
+}
